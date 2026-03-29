@@ -1,0 +1,184 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$comment": "Human-readable manifest for GitHub display. NOT the deployment source of truth.",
+  "version": "1.0.0",
+  "totalPacks": 11,
+  "totalSkills": 92,
+  "packs": [
+    {
+      "slug": "sales",
+      "name": "Sales Co-Pilot",
+      "description": "Strategic sales partner for prospecting, pipeline management, deal coaching, and forecasting.",
+      "category": "business",
+      "skillCount": 9,
+      "icon": "briefcase",
+      "tags": [
+        "sales",
+        "crm",
+        "pipeline",
+        "prospecting"
+      ],
+      "source": "anthropic-kwp",
+      "hasCode": false
+    },
+    {
+      "slug": "engineering",
+      "name": "Engineering Co-Pilot",
+      "description": "Senior engineering partner for code review, architecture decisions, incident response, and technical documentation.",
+      "category": "engineering",
+      "skillCount": 10,
+      "icon": "code",
+      "tags": [
+        "engineering",
+        "code-review",
+        "architecture",
+        "devops"
+      ],
+      "source": "anthropic-kwp",
+      "hasCode": false
+    },
+    {
+      "slug": "customer-support",
+      "name": "Customer Support Co-Pilot",
+      "description": "Senior support partner for ticket triage, response drafting, escalation, and knowledge base building.",
+      "category": "business",
+      "skillCount": 5,
+      "icon": "headset",
+      "tags": [
+        "support",
+        "tickets",
+        "customer-service"
+      ],
+      "source": "anthropic-kwp",
+      "hasCode": false
+    },
+    {
+      "slug": "marketing",
+      "name": "Marketing Strategist",
+      "description": "Full-stack marketing partner for content creation, campaign planning, brand voice, and competitive analysis.",
+      "category": "marketing",
+      "skillCount": 8,
+      "icon": "megaphone",
+      "tags": [
+        "marketing",
+        "content",
+        "campaigns",
+        "seo"
+      ],
+      "source": "anthropic-kwp",
+      "hasCode": false
+    },
+    {
+      "slug": "legal",
+      "name": "In-House Legal Productivity Assistant",
+      "description": "Workflow accelerator for contracts, NDAs, compliance, vendor management, and legal briefings.",
+      "category": "legal",
+      "skillCount": 9,
+      "icon": "scale",
+      "tags": [
+        "legal",
+        "contracts",
+        "compliance",
+        "nda"
+      ],
+      "source": "anthropic-kwp",
+      "hasCode": false
+    },
+    {
+      "slug": "finance",
+      "name": "Finance & Accounting Workflow Partner",
+      "description": "Precision instrument for month-end close, journal entries, reconciliation, and SOX audit support.",
+      "category": "finance",
+      "skillCount": 8,
+      "icon": "calculator",
+      "tags": [
+        "finance",
+        "accounting",
+        "audit",
+        "reconciliation"
+      ],
+      "source": "anthropic-kwp",
+      "hasCode": false
+    },
+    {
+      "slug": "data",
+      "name": "Data Analyst Partner",
+      "description": "Collaborator for SQL queries, data exploration, visualizations, dashboards, and data storytelling.",
+      "category": "data",
+      "skillCount": 10,
+      "icon": "database",
+      "tags": [
+        "data",
+        "sql",
+        "analytics",
+        "visualization"
+      ],
+      "source": "anthropic-kwp",
+      "hasCode": true
+    },
+    {
+      "slug": "product-management",
+      "name": "Product Management Partner",
+      "description": "AI-powered partner for specs, roadmaps, research synthesis, competitor tracking, and sprint planning.",
+      "category": "business",
+      "skillCount": 8,
+      "icon": "clipboard-list",
+      "tags": [
+        "product",
+        "roadmap",
+        "specs",
+        "research"
+      ],
+      "source": "anthropic-kwp",
+      "hasCode": false
+    },
+    {
+      "slug": "human-resources",
+      "name": "People Operations Partner",
+      "description": "AI-powered HR partner for recruiting, onboarding, performance reviews, compensation analysis, and policy guidance.",
+      "category": "hr",
+      "skillCount": 9,
+      "icon": "users",
+      "tags": [
+        "hr",
+        "recruiting",
+        "onboarding",
+        "compensation"
+      ],
+      "source": "anthropic-kwp",
+      "hasCode": false
+    },
+    {
+      "slug": "design",
+      "name": "AI Design Partner",
+      "description": "Design partner for critique, design systems, UX copy, accessibility audits, and developer handoff.",
+      "category": "design",
+      "skillCount": 7,
+      "icon": "palette",
+      "tags": [
+        "design",
+        "ux",
+        "accessibility",
+        "design-system"
+      ],
+      "source": "anthropic-kwp",
+      "hasCode": false
+    },
+    {
+      "slug": "operations",
+      "name": "Business Operations Analyst",
+      "description": "Process-oriented agent for vendor management, documentation, change management, and capacity planning.",
+      "category": "operations",
+      "skillCount": 9,
+      "icon": "settings",
+      "tags": [
+        "operations",
+        "process",
+        "vendor",
+        "compliance"
+      ],
+      "source": "anthropic-kwp",
+      "hasCode": false
+    }
+  ]
+}

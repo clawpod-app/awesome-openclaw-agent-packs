@@ -1,0 +1,59 @@
+[2026-03-29T16:22:09.451Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-03-29T16:22:09.662Z] [log] [HMR] connected
+[2026-03-29T16:22:41.490Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-03-29T16:22:41.508Z] [log] [HMR] connected
+[2026-03-29T16:23:08.438Z] [log] [Fast Refresh] rebuilding
+[2026-03-29T16:23:08.823Z] [log] [Fast Refresh] done in 487ms
+[2026-03-29T16:23:09.824Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-03-29T16:23:09.863Z] [log] [HMR] connected
+[2026-03-29T16:23:30.336Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-03-29T16:23:30.399Z] [log] [HMR] connected
+[2026-03-29T16:23:51.301Z] [error] Failed to load resource: the server responded with a status of 404 (Not Found)
+[2026-03-29T16:23:51.364Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-03-29T16:23:51.412Z] [log] [HMR] connected
+[2026-03-29T16:23:54.780Z] [warning] The resource http://localhost:3000/_next/static/chunks/_62a69acd._.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2026-03-29T16:23:58.104Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-03-29T16:23:58.153Z] [log] [HMR] connected
+[2026-03-29T16:27:09.500Z] [log] [Fast Refresh] rebuilding
+[2026-03-29T16:27:10.371Z] [log] [Fast Refresh] done in 943ms
+[2026-03-29T16:27:10.473Z] [log] [Fast Refresh] rebuilding
+[2026-03-29T16:27:11.530Z] [log] [Fast Refresh] done in 1157ms
+[2026-03-29T16:27:11.632Z] [log] [Fast Refresh] rebuilding
+[2026-03-29T16:27:12.791Z] [log] [Fast Refresh] done in 1260ms
+[2026-03-29T16:27:12.929Z] [log] [Fast Refresh] rebuilding
+[2026-03-29T16:27:13.726Z] [log] [Fast Refresh] done in 898ms
+[2026-03-29T16:27:13.827Z] [log] [Fast Refresh] rebuilding
+[2026-03-29T16:27:14.042Z] [log] [Fast Refresh] done in 316ms
+[2026-03-29T16:27:14.050Z] [error] Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+[2026-03-29T16:27:14.744Z] [error] Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+[2026-03-29T16:27:14.847Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-03-29T16:27:14.910Z] [log] [HMR] connected
+[2026-03-29T16:27:15.074Z] [log] [Fast Refresh] rebuilding
+[2026-03-29T16:27:15.202Z] [log] [Fast Refresh] done in 171ms
+[2026-03-29T16:27:31.789Z] [log] [Fast Refresh] rebuilding
+[2026-03-29T16:27:32.192Z] [log] [Fast Refresh] done in 148ms
+[2026-03-29T16:27:33.696Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-03-29T16:27:33.754Z] [log] [HMR] connected
+[2026-03-29T16:27:50.153Z] [log] [Fast Refresh] rebuilding
+[2026-03-29T16:27:50.225Z] [log] [Fast Refresh] done in 150ms
+[2026-03-29T16:27:50.327Z] [log] [Fast Refresh] rebuilding
+[2026-03-29T16:27:50.739Z] [log] [Fast Refresh] done in 513ms
+[2026-03-29T16:28:06.369Z] [log] [Fast Refresh] rebuilding
+[2026-03-29T16:28:06.767Z] [log] [Fast Refresh] done in 150ms
+[2026-03-29T16:28:23.504Z] [log] [Fast Refresh] rebuilding
+[2026-03-29T16:28:23.674Z] [log] [Fast Refresh] done in 272ms
+[2026-03-29T16:28:43.711Z] [log] [Fast Refresh] rebuilding
+[2026-03-29T16:28:43.789Z] [log] [Fast Refresh] done in 180ms
+[2026-03-29T16:29:02.084Z] [log] [Fast Refresh] rebuilding
+[2026-03-29T16:29:03.731Z] [log] [Fast Refresh] done in 1740ms
+[2026-03-29T16:29:04.754Z] [log] [Fast Refresh] rebuilding
+[2026-03-29T16:29:04.989Z] [log] [Fast Refresh] done in 336ms
+[2026-03-29T16:29:05.553Z] [error] Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+[2026-03-29T16:29:05.980Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-03-29T16:29:06.003Z] [log] [HMR] connected
+[2026-03-29T16:29:06.902Z] [log] [Fast Refresh] rebuilding
+[2026-03-29T16:29:06.945Z] [log] [Fast Refresh] done in 144ms
+[2026-03-29T16:29:10.632Z] [log] [Fast Refresh] rebuilding
+[2026-03-29T16:29:10.641Z] [log] [Fast Refresh] done in 111ms
+[2026-03-29T16:29:22.402Z] [log] [Fast Refresh] rebuilding
+[2026-03-29T16:29:23.243Z] [log] [Fast Refresh] done in 913ms

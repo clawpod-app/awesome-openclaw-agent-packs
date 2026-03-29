@@ -1,0 +1,15 @@
+Awesome OpenClaw Agent Packs
+Copyright (c) 2026 ClawPod
+
+This product includes software derived from Anthropic's Knowledge Work Plugins:
+  https://github.com/anthropics/knowledge-work-plugins
+  Copyright (c) Anthropic, PBC
+  Licensed under the Apache License, Version 2.0
+
+Modifications from the original work:
+  - Restructured from SKILL.md plugin format into SOUL/AGENTS/HEARTBEAT/TOOLS/MEMORY
+    pack format for the OpenClaw platform
+  - Added per-pack SOUL.md (agent identity), AGENTS.md (workflow), HEARTBEAT.md
+    (scheduled tasks), TOOLS.md (tool configuration), and MEMORY.md (memory structure)
+  - Adapted MCP tool references for platform-agnostic deployment
+  - Added ClawPod one-click deployment support
