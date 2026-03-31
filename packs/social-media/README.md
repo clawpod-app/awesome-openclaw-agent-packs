@@ -18,4 +18,4 @@ Agent: Provides 2-3 tweet variants with different angles (feature-focused, use-c
 ```
 
 ## Attribution
-Adapted from [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (MIT License) -- `agents/marketing/social-media/SOUL.md`.
+Inspired by [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (MIT License) -- `agents/marketing/social-media/SOUL.md`.

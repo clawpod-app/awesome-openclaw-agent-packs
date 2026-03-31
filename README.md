@@ -184,7 +184,7 @@ We welcome new packs and improvements to existing ones. See [CONTRIBUTING.md](./
 
 Core packs (11) adapted from [Anthropic's Knowledge Work Plugins](https://github.com/anthropics/knowledge-work-plugins) (Apache-2.0). See [NOTICE](./NOTICE) for details.
 
-Community-sourced packs adapted from:
+Community-sourced packs inspired by:
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (MIT) — 10 packs
 - [raulvidis/openclaw-multi-agent-kit](https://github.com/raulvidis/openclaw-multi-agent-kit) (MIT) — 5 packs
 - [shenhao-stu/openclaw-agents](https://github.com/shenhao-stu/openclaw-agents) (MIT) — 4 packs

@@ -18,4 +18,4 @@ Agent: Provides 3 variants using different frameworks (benefit-driven, pain-poin
 ```
 
 ## Attribution
-Adapted from [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (MIT License) -- `agents/creative/copywriter/SOUL.md`.
+Inspired by [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (MIT License) -- `agents/creative/copywriter/SOUL.md`.

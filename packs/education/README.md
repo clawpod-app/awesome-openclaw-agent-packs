@@ -19,4 +19,4 @@ Agent: Builds understanding step-by-step using a real-world analogy (people in a
 ```
 
 ## Attribution
-Adapted from [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (MIT License) -- `agents/education/tutor/SOUL.md`.
+Inspired by [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (MIT License) -- `agents/education/tutor/SOUL.md`.

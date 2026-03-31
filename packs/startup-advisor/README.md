@@ -18,4 +18,4 @@ Agent: Provides a structured analysis with visitor/pageview trends, traffic sour
 ```
 
 ## Attribution
-Adapted from [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (MIT License) -- `agents/business/radar/SOUL.md`.
+Inspired by [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (MIT License) -- `agents/business/radar/SOUL.md`.

@@ -18,4 +18,4 @@ Agent: Presents top 3 priorities, maps them to optimal time blocks around existi
 ```
 
 ## Attribution
-Adapted from [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (MIT License) -- `agents/personal/daily-planner/SOUL.md`.
+Inspired by [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (MIT License) -- `agents/personal/daily-planner/SOUL.md`.

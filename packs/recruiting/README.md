@@ -18,4 +18,4 @@ Agent: Screens all applications, tiers them into Strong/Good/Partial/No Match, p
 ```
 
 ## Attribution
-Adapted from [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (MIT License) -- `agents/hr/recruiter/SOUL.md`.
+Inspired by [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (MIT License) -- `agents/hr/recruiter/SOUL.md`.

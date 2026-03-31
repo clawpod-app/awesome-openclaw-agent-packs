@@ -19,4 +19,4 @@ Agent: Generates a structured weekly briefing with threats ranked by relevance t
 ```
 
 ## Attribution
-Adapted from [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (MIT License) -- `agents/security/threat-monitor/SOUL.md`.
+Inspired by [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (MIT License) -- `agents/security/threat-monitor/SOUL.md`.

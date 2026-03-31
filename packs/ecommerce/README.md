@@ -18,4 +18,4 @@ Agent: Generates platform-specific listings with optimized titles, 5 bullet poin
 ```
 
 ## Attribution
-Adapted from [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (MIT License) -- `agents/ecommerce/product-lister/SOUL.md`.
+Inspired by [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (MIT License) -- `agents/ecommerce/product-lister/SOUL.md`.

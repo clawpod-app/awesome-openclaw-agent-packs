@@ -19,4 +19,4 @@ Agent: Delivers a complete blog post with optimized title (under 60 chars), meta
 ```
 
 ## Attribution
-Adapted from [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (MIT License) -- `agents/marketing/seo-writer/SOUL.md`.
+Inspired by [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (MIT License) -- `agents/marketing/seo-writer/SOUL.md`.

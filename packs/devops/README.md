@@ -24,4 +24,4 @@ Agent: Checks post-deploy metrics (error rate, latency, CPU), compares against b
 ```
 
 ## Attribution
-Adapted from [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (MIT License) -- `agents/devops/deploy-guardian/SOUL.md`.
+Inspired by [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (MIT License) -- `agents/devops/deploy-guardian/SOUL.md`.
