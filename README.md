@@ -5,8 +5,8 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/clawpod-app/awesome-openclaw-agent-packs?style=social)](https://github.com/clawpod-app/awesome-openclaw-agent-packs)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/clawpod-app/awesome-openclaw-agent-packs/pulls)
-[![Packs](https://img.shields.io/badge/Packs-11-blue)](./packs/)
-[![Skills](https://img.shields.io/badge/Skills-92-purple)](./packs/)
+[![Packs](https://img.shields.io/badge/Packs-30-blue)](./packs/)
+[![Skills](https://img.shields.io/badge/Skills-131-purple)](./packs/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 
 **Pre-configured AI agent packs for OpenClaw. Pick a role, deploy in 30 seconds.**
@@ -45,6 +45,32 @@ Each pack turns a generic OpenClaw agent into a specialized team member. Every p
 | :headphones: [Customer Support](./packs/customer-support/) | 5 | Ticket triage, FAQ answers, escalation handling, satisfaction tracking | [![Deploy](https://img.shields.io/badge/Deploy-ClawPod-FF6B35)](https://clawpod.app/templates/customer-support?utm_source=github&utm_medium=readme&utm_campaign=pack-deploy) |
 | :art: [Design Partner](./packs/design/) | 7 | Design critiques, UX audits, style guide enforcement, wireframe feedback | [![Deploy](https://img.shields.io/badge/Deploy-ClawPod-FF6B35)](https://clawpod.app/templates/design?utm_source=github&utm_medium=readme&utm_campaign=pack-deploy) |
 | :gear: [Operations Manager](./packs/operations/) | 9 | Process optimization, vendor management, SOP drafting, KPI tracking | [![Deploy](https://img.shields.io/badge/Deploy-ClawPod-FF6B35)](https://clawpod.app/templates/operations?utm_source=github&utm_medium=readme&utm_campaign=pack-deploy) |
+
+#### Community-Sourced Packs
+
+The following packs are curated from high-quality MIT-licensed community repos, with full attribution.
+
+| Pack | Skills | When to Use | Source | Deploy |
+|------|:------:|-------------|--------|--------|
+| :rocket: [DevOps Guardian](./packs/devops/) | 3 | CI/CD monitoring, deploy rollbacks, incident response, infrastructure audits | [awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) | [![Deploy](https://img.shields.io/badge/Deploy-ClawPod-FF6B35)](https://clawpod.app/templates/devops?utm_source=github&utm_medium=readme&utm_campaign=pack-deploy) |
+| :pencil2: [Copywriter](./packs/copywriting/) | 3 | Ad copy, landing pages, email campaigns, brand voice consistency | [awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) | [![Deploy](https://img.shields.io/badge/Deploy-ClawPod-FF6B35)](https://clawpod.app/templates/copywriting?utm_source=github&utm_medium=readme&utm_campaign=pack-deploy) |
+| :mortar_board: [Education Tutor](./packs/education/) | 2 | Personalized tutoring, quiz generation, learning plans, study guides | [awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) | [![Deploy](https://img.shields.io/badge/Deploy-ClawPod-FF6B35)](https://clawpod.app/templates/education?utm_source=github&utm_medium=readme&utm_campaign=pack-deploy) |
+| :house: [Personal Assistant](./packs/personal-assistant/) | 2 | Daily planning, reminders, travel research, life admin tasks | [awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) | [![Deploy](https://img.shields.io/badge/Deploy-ClawPod-FF6B35)](https://clawpod.app/templates/personal-assistant?utm_source=github&utm_medium=readme&utm_campaign=pack-deploy) |
+| :shopping_cart: [E-Commerce Manager](./packs/ecommerce/) | 3 | Pricing optimization, inventory tracking, review management | [awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) | [![Deploy](https://img.shields.io/badge/Deploy-ClawPod-FF6B35)](https://clawpod.app/templates/ecommerce?utm_source=github&utm_medium=readme&utm_campaign=pack-deploy) |
+| :shield: [Security Analyst](./packs/security/) | 3 | Threat monitoring, vulnerability scanning, compliance audits | [awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) | [![Deploy](https://img.shields.io/badge/Deploy-ClawPod-FF6B35)](https://clawpod.app/templates/security?utm_source=github&utm_medium=readme&utm_campaign=pack-deploy) |
+| :mag: [Recruiter](./packs/recruiting/) | 2 | Candidate sourcing, resume screening, interview scheduling | [awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) | [![Deploy](https://img.shields.io/badge/Deploy-ClawPod-FF6B35)](https://clawpod.app/templates/recruiting?utm_source=github&utm_medium=readme&utm_campaign=pack-deploy) |
+| :chart_with_upwards_trend: [SEO Specialist](./packs/seo/) | 3 | Keyword research, content optimization, technical SEO audits, rank tracking | [awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) | [![Deploy](https://img.shields.io/badge/Deploy-ClawPod-FF6B35)](https://clawpod.app/templates/seo?utm_source=github&utm_medium=readme&utm_campaign=pack-deploy) |
+| :speech_balloon: [Social Media Manager](./packs/social-media/) | 3 | Content scheduling, engagement tracking, trend monitoring, community replies | [awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) | [![Deploy](https://img.shields.io/badge/Deploy-ClawPod-FF6B35)](https://clawpod.app/templates/social-media?utm_source=github&utm_medium=readme&utm_campaign=pack-deploy) |
+| :bulb: [Startup Advisor](./packs/startup-advisor/) | 2 | Market validation, pitch deck feedback, fundraising strategy, competitive analysis | [awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) | [![Deploy](https://img.shields.io/badge/Deploy-ClawPod-FF6B35)](https://clawpod.app/templates/startup-advisor?utm_source=github&utm_medium=readme&utm_campaign=pack-deploy) |
+| :microscope: [Researcher](./packs/research/) | 2 | Deep research, source verification, literature review, competitive intelligence | [openclaw-multi-agent-kit](https://github.com/raulvidis/openclaw-multi-agent-kit) | [![Deploy](https://img.shields.io/badge/Deploy-ClawPod-FF6B35)](https://clawpod.app/templates/research?utm_source=github&utm_medium=readme&utm_campaign=pack-deploy) |
+| :seedling: [Growth Hacker](./packs/growth/) | 2 | Growth experiments, funnel optimization, A/B test analysis, viral loops | [openclaw-multi-agent-kit](https://github.com/raulvidis/openclaw-multi-agent-kit) | [![Deploy](https://img.shields.io/badge/Deploy-ClawPod-FF6B35)](https://clawpod.app/templates/growth?utm_source=github&utm_medium=readme&utm_campaign=pack-deploy) |
+| :wave: [Community Manager](./packs/community/) | 2 | Discord/forum moderation, community engagement, user feedback synthesis | [openclaw-multi-agent-kit](https://github.com/raulvidis/openclaw-multi-agent-kit) | [![Deploy](https://img.shields.io/badge/Deploy-ClawPod-FF6B35)](https://clawpod.app/templates/community?utm_source=github&utm_medium=readme&utm_campaign=pack-deploy) |
+| :movie_camera: [Content Creator](./packs/content-creation/) | 2 | Blog posts, newsletters, social threads, content repurposing | [openclaw-multi-agent-kit](https://github.com/raulvidis/openclaw-multi-agent-kit) | [![Deploy](https://img.shields.io/badge/Deploy-ClawPod-FF6B35)](https://clawpod.app/templates/content-creation?utm_source=github&utm_medium=readme&utm_campaign=pack-deploy) |
+| :white_check_mark: [QA Engineer](./packs/qa/) | 2 | Test planning, bug triage, regression testing, quality gates | [openclaw-multi-agent-kit](https://github.com/raulvidis/openclaw-multi-agent-kit) | [![Deploy](https://img.shields.io/badge/Deploy-ClawPod-FF6B35)](https://clawpod.app/templates/qa?utm_source=github&utm_medium=readme&utm_campaign=pack-deploy) |
+| :fountain_pen: [Writing Assistant](./packs/writing/) | 2 | Long-form writing, editing, style consistency, tone adaptation | [openclaw-agents](https://github.com/shenhao-stu/openclaw-agents) | [![Deploy](https://img.shields.io/badge/Deploy-ClawPod-FF6B35)](https://clawpod.app/templates/writing?utm_source=github&utm_medium=readme&utm_campaign=pack-deploy) |
+| :mag_right: [Code Reviewer](./packs/code-review/) | 2 | PR reviews, code quality checks, security scanning, style enforcement | [openclaw-agents](https://github.com/shenhao-stu/openclaw-agents) | [![Deploy](https://img.shields.io/badge/Deploy-ClawPod-FF6B35)](https://clawpod.app/templates/code-review?utm_source=github&utm_medium=readme&utm_campaign=pack-deploy) |
+| :zap: [Idea Generator](./packs/ideation/) | 2 | Brainstorming, concept validation, lateral thinking, innovation workshops | [openclaw-agents](https://github.com/shenhao-stu/openclaw-agents) | [![Deploy](https://img.shields.io/badge/Deploy-ClawPod-FF6B35)](https://clawpod.app/templates/ideation?utm_source=github&utm_medium=readme&utm_campaign=pack-deploy) |
+| :calendar: [Project Planner](./packs/project-planning/) | 2 | Project timelines, task breakdown, milestone tracking, dependency mapping | [openclaw-agents](https://github.com/shenhao-stu/openclaw-agents) | [![Deploy](https://img.shields.io/badge/Deploy-ClawPod-FF6B35)](https://clawpod.app/templates/project-planning?utm_source=github&utm_medium=readme&utm_campaign=pack-deploy) |
 
 Don't see your role? [Request a pack :arrow_right:](https://github.com/clawpod-app/awesome-openclaw-agent-packs/issues/new?labels=pack-request&title=Pack+request:+)
 
@@ -156,7 +182,12 @@ We welcome new packs and improvements to existing ones. See [CONTRIBUTING.md](./
 
 ## Attribution
 
-Adapted from [Anthropic's Knowledge Work Plugins](https://github.com/anthropics/knowledge-work-plugins) (Apache-2.0). See [NOTICE](./NOTICE) for details.
+Core packs (11) adapted from [Anthropic's Knowledge Work Plugins](https://github.com/anthropics/knowledge-work-plugins) (Apache-2.0). See [NOTICE](./NOTICE) for details.
+
+Community-sourced packs adapted from:
+- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (MIT) — 10 packs
+- [raulvidis/openclaw-multi-agent-kit](https://github.com/raulvidis/openclaw-multi-agent-kit) (MIT) — 5 packs
+- [shenhao-stu/openclaw-agents](https://github.com/shenhao-stu/openclaw-agents) (MIT) — 4 packs
 
 ## License
 
