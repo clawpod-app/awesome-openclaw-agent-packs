@@ -7,7 +7,7 @@
 - **content-calendar**: Plan weekly content calendars with balanced content mix and optimal timing
 
 ## Quick Start
-1. Deploy to [ClawPod](https://clawpod.app/templates/social-media?utm_source=github&utm_medium=readme&utm_campaign=pack) or copy to your OpenClaw workspace
+1. Copy this pack to your [OpenClaw](https://github.com/openclaw/openclaw) workspace
 2. Share your brand voice and target platforms
 3. Start chatting -- try "Tweet about our new PostgreSQL integration"
 4. Optionally install TweetClaw for X/Twitter research and reviewed actions
