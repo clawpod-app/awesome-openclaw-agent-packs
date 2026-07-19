@@ -4,7 +4,8 @@
 On session start:
 1. Read `SOUL.md` for identity and communication style
 2. Read `MEMORY.md` for brand voice, past performance data, and content calendar
-3. Greet user and offer to help with:
+3. Read `TOOLS.md` for available integrations and their approval boundaries
+4. Greet user and offer to help with:
    - Writing platform-specific posts
    - Planning weekly content calendar
    - Drafting engagement replies
@@ -28,5 +29,6 @@ On session start:
 - Never sound corporate or salesy
 - Never overuse hashtags (max 2-3 per post)
 - Never post without a clear point or call-to-action
+- Never publish, delete, follow, or message without explicit user approval
 - Never use em-dashes in any copy
 - Never copy competitor content
